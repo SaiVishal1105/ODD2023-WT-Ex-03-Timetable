@@ -2,20 +2,20 @@
 NAME: SAI VISHAL D
 REG.NO: 212223230180
 
-## AIM
+## AIM:
 To Write a html webpage page to display your timetable.
 
-## ALGORITHM
+## ALGORITHM:
 ### STEP 1
-create a simple table using table tag
+Create a simple table using table tag
 ### STEP 2
-Add header row using th tag
+Add header row using th tag.
 ### STEP 3
-Add your timetable
+Add your timetable.
 ### STEP 4
-Execute the program
+Execute the program.
 
-## PROGRAM
+## PROGRAM:
 ```
 <!DOCTYPE html>
 <html>
@@ -111,6 +111,8 @@ Execute the program
 </body>
 </html>
 ```
-# OUPUT
-
+## OUPUT:
 ![slottimetable](https://github.com/SaiVishal1105/ODD2023-WT-Ex-03-Timetable/assets/145742557/8c6f862d-2c3d-423a-bf05-5d12668bd5d7)
+
+## RESULT:
+The output is verified successfully.
