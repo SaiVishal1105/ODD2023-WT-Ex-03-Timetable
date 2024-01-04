@@ -1,10 +1,11 @@
-# Ex-04-Timetable
-# Name: SAI VISHAL D
-# Ref.no.: 23013576
+# Ex-05-Timetable
+NAME: SAI VISHAL D
+REG.NO: 212223230180
+
 ## AIM
 To Write a html webpage page to display your timetable.
 
-# ALGORITHM
+## ALGORITHM
 ### STEP 1
 create a simple table using table tag
 ### STEP 2
@@ -14,7 +15,7 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+## PROGRAM
 ```
 <!DOCTYPE html>
 <html>
